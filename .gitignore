@@ -214,3 +214,5 @@ API/Data/Migrations/DataContextModelSnapshot.cs
 API/datingapp.db
 API/datingapp.db-shm
 API/datingapp.db-wal
+API/Data/Migrations/20250626111731_AppUserUpdate.cs
+API/Data/Migrations/20250626111731_AppUserUpdate.Designer.cs
