@@ -208,3 +208,9 @@ FakesAssemblies/
 
 # JetBrains Rider
 *.sln.iml
+API/Data/Migrations/20250626072507_InitialCreate.cs
+API/Data/Migrations/20250626072507_InitialCreate.Designer.cs
+API/Data/Migrations/DataContextModelSnapshot.cs
+API/datingapp.db
+API/datingapp.db-shm
+API/datingapp.db-wal
